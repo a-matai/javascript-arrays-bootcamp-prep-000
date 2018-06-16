@@ -8,4 +8,3 @@ var ingredient6 = "garlic"
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 var addElementToEndOfArray = ["poptarts", ...chocolateBars]
-
