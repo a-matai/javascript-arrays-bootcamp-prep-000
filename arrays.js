@@ -9,3 +9,6 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 var addElementToBeginningOfArray = ["poptarts", ...chocolateBars]
 var destructivelyAddElementToBeginningOfArray = chocolateBars.unshift("poptarts")
+
+var addElementToEndOfArray = [...chocolateBars, "poptarts"]
+var destructivelyAddElementToEndOfArray = chocolateBars.push("poptarts")
