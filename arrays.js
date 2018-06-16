@@ -12,3 +12,7 @@ var destructivelyAddElementToBeginningOfArray = chocolateBars.unshift("poptarts"
 
 var addElementToEndOfArray = [...chocolateBars, "poptarts"]
 var destructivelyAddElementToEndOfArray = chocolateBars.push("poptarts")
+
+function functionName() {accessElementInArray = 
+  
+}
